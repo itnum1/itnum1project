@@ -1,2 +1,2 @@
-# itnut1project
+# itnum1project
 first project
